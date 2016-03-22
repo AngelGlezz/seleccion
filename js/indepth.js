@@ -353,9 +353,9 @@ $("#indepth_twittear").click(function(){
 	if(!disable){
 
 		
-		var text = encodeURIComponent("Mi predicción es: Tijuana "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " América primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol @pumamexico";
-		var url = encodeURIComponent("http://juanfutbol.com/indepth/america-99-anos");
-		window.open("https://twitter.com/share?text="+text+"&hashtags=hermoso99&url="+url,"","width=500, height=300");
+		var text = encodeURIComponent("Mi predicción es: México "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Canadá primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
+		var url = encodeURIComponent("http://juanfutbol.com/indepth/");
+		window.open("https://twitter.com/share?text="+text+"&hashtags=juanfutbol&url="+url,"","width=500, height=300");
 
 	}else{
 		

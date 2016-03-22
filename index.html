@@ -24,6 +24,30 @@
 		<script type='text/javascript'>
 			var urlIndepth = '';		
 		</script>
+		<script type="text/javascript">
+			if(typeof(sharePopUp) != "function"){
+				function sharePopUp(social, url) {
+					var height = 0;
+					var width = 0;
+					var sn = "";
+					if(social == "fb"){ 
+						height = 370;
+						width = 580;
+					}else if(social == "tw"){
+						height = 220;
+						width = 580;
+					}else if(social == "pin"){
+						height = 480;
+						width = 420;
+					}
+					//clickstats(, , , social);
+					/*if(shareWindow != undefined && shareWindow.closed == false){
+						shareWindow.close();
+					}*/
+					shareWindow = window.open(url, "shareUrl", "status=0,height="+height+",width="+width+",resizable=0,menubar=0");
+				}
+			}
+		</script>
 	</head>
 	<body >
 		<link type="text/css" rel="stylesheet" href="css/indepth.css?v=1.0.29"/>
@@ -126,8 +150,8 @@
 							</div>
 						</div>
 						<div id="indepth_twittear">
-							
 						</div>
+
 					</div>
 				</div>
 			</div>
