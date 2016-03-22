@@ -1009,7 +1009,7 @@
 	}
 
 	#juan {
-	    width: 210px;
+	    width: 180px;
 	    max-width: 600px;
 	    margin-bottom: -165px;
 	}
@@ -1056,11 +1056,13 @@
 	left: 20px;
 	font-weight: 300;
 	
-}
+	}
 
-.indepth_lo_quiero_cont{
-	bottom: 60px;
-}
+	
+
+	.indepth_lo_quiero_cont{
+		bottom: 60px;
+	}
 	
 	#indepth_cover{
 		height: 540px;	
@@ -1078,19 +1080,19 @@
 
 	
 	.indepth_concurso_text{
-	font-size: 16px;
-}
+		font-size: 16px;
+	}
 
-.indepth_tenis_title{
-	font-size: 22px;
-}
+	.indepth_tenis_title{
+		font-size: 22px;
+	}
 
-.indepth_pregunta{
-	font-size: 22px;
-}
+	.indepth_pregunta{
+		font-size: 22px;
+	}
 
 	#juan{
-			max-width: 200px;
+			max-width: 150px;
 			margin-bottom: 10px;
 		}
 		
