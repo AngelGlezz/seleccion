@@ -994,7 +994,7 @@
 	    background-image: url(../images/marco_dominos.png);
 	    background-repeat: no-repeat;
 	    background-position: center top;
-	    background-size: 301px 130px;
+	    background-size: 301px 100%;
 	    padding: 0 10px;
 	    padding-top: 25px;
 	    display: table;
@@ -1009,7 +1009,7 @@
 	}
 
 	#juan {
-	    width: 350px;
+	    width: 210px;
 	    max-width: 600px;
 	    margin-bottom: -165px;
 	}
@@ -1035,7 +1035,7 @@
 	}
 	
 	#juan{
-		max-width: 500px;
+		max-width: 410px;
 		margin-bottom: 20px;
 	}
 }
