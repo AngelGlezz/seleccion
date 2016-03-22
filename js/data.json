@@ -1,0 +1,886 @@
+{
+  "preguntas": [
+    {
+      "pregunta": "¿Actual entrenador de la Selección Mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "Miguel  Herrera",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Javier  Aguirre",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "José Manuel de la Torre",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juan Carlos Osorio",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En cuántos mundiales ha participado la Selección Mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "15",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "18",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "13",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "16",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Mundiales disputados por la Tota Carbajal?",
+      "respuestas": [
+        {
+          "respuesta": "7",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "5",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Máximo goleador en la Selección Mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "Jared Borgetti",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Javier Hernández",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuauhtémoc Blanco",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hugo Sánchez",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Jugador con más participaciones en la Selección Mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "Pavel Pardo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Claudio Suárez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Rafael Márquez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jorge Campos",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Anotador del primer gol del Tri en Mundiales?",
+      "respuestas": [
+        {
+          "respuesta": "Juan Carreño",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Luis Pérez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Felipe Olivares",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hilario López",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas veces México ha sido sede del Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "0",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Portero titular de México en el Mundial 2010?",
+      "respuestas": [
+        {
+          "respuesta": "Guillermo Ochoa",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alfredo Talavera",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Jesús Corona",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Óscar Pérez",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer rival al que marcó Chicharito con el Tri?",
+      "respuestas": [
+        {
+          "respuesta": "Bolivia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Costa Rica",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Panamá",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Salvador",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Mundial en el que México utilizó uniforme de un club?",
+      "respuestas": [
+        {
+          "respuesta": "Brasil 1950",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "México 1970",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Suiza 1954",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chile 1962",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer rival del Tri en la historia mundialista?",
+      "respuestas": [
+        {
+          "respuesta": "Uruguay",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "España",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer técnico sudamericano en dirigir al Tri en un mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Jorge Sampaoli",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Diego Simeone",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ricardo La Volpe",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Manuel Pellegrini",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Naturalizado que fue a un Mundial con la Selección Mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "Chaco Giménez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Damián Álvarez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Matías Vuoso",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Guillermo Franco",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Máximo rival histórico del Tri?",
+      "respuestas": [
+        {
+          "respuesta": "Estados Unidos",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Panamá",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Hizo el primer autogol del Tri en un Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Raúl Cárdenas",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Gustavo Peña",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Fernando Quirarte",
+          "tipo": "false"
+        }
+        {
+          "respuesta": "Miguel Layún",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Qué selección eliminó a México en el último Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alemania",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Holanda",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántas Copa Oro ha ganado la Selección Mexicana?",
+      "respuestas": [
+        {
+          "respuesta": "9",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "10",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "12",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "7",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Entrenador que calificó al Tri a la próxima Confederaciones?",
+      "respuestas": [
+        {
+          "respuesta": "Miguel Herrera",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juan Carlos Osorio",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Ricardo Ferretti",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Enrique Meza",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer rival al que el Tri venció en un Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Chile",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Uruguay",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Suiza",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Checoslovaquia",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Año en que debutó Hugo Sánchez en un Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "1966",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1970",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1978",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1974",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué Mundial Cuauhtémoc Blanco anotó su primer gol?",
+      "respuestas": [
+        {
+          "respuesta": "Alemania",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Corea-Japón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Actual entrenador de Argentina?",
+      "respuestas": [
+        {
+          "respuesta": "Marcelo Bielsa",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alfio Basile",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gerardo Martino",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Diego Armando Maradona",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Actual campeón del Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Francia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alemania",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Jugador que fue campeón del mundo con Francia?",
+      "respuestas": [
+        {
+          "respuesta": "Thierry Henry",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Paul Pogba",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Michel Platini",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Just Fontaine",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Entrenador campeón del mundo con España?",
+      "respuestas": [
+        {
+          "respuesta": "Luis Aragonés",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Vicente del Bosque",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Paco Jémez",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Carlo Ancelotti",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos Mundiales ha ganado Argentina?",
+      "respuestas": [
+        {
+          "respuesta": "5",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Selección de Sudamérica que nunca ha ido a un Mundial?",
+      "respuestas": [
+        {
+          "respuesta": "Perú",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Bolivia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Venezuela",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Paraguay",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer Campeón mundial en la historia?",
+      "respuestas": [
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Uruguay",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Máximo goleador de la selección argentina?",
+      "respuestas": [
+        {
+          "respuesta": "Lionel Messi",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Hernán Crespo",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Gabriel Batistuta",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Mario Kempes",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos Mundiales ganó Pelé?",
+      "respuestas": [
+        {
+          "respuesta": "3",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué lugar quedó Uruguay en Sudáfrica 2010?",
+      "respuestas": [
+        {
+          "respuesta": "Campeón",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Segundo lugar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Cuarto lugar",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Tercer lugar",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer selección en recibir una tarjeta roja?",
+      "respuestas": [
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Uruguay",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chile",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos Mundiales ha ganado Alemania?",
+      "respuestas": [
+        {
+          "respuesta": "5",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "4",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "6",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Actual campeón de la Copa América?",
+      "respuestas": [
+        {
+          "respuesta": "Argentina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Uruguay",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Chile",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Máximo anotador de España?",
+      "respuestas": [
+        {
+          "respuesta": "Andrés Iniesta",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "David Villa",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Fernando Torres",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juan Mata",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Actual entrenador de Chile?",
+      "respuestas": [
+        {
+          "respuesta": "Jorge Sampaoli",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Marcelo Bielsa",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Juan Antonio Pizzi",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Iván Zamorano",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Portero colombiano que hizo un escorpión?",
+      "respuestas": [
+        {
+          "respuesta": "Miguel Calero",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Óscar Córdoba",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "David Ospina",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "René Higuita",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primera selección que lideró el Ranking FIFA?",
+      "respuestas": [
+        {
+          "respuesta": "México",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Inglaterra",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Alemania",
+          "tipo": "true"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Cuántos Mundiales ganó Ronaldo?",
+      "respuestas": [
+        {
+          "respuesta": "4",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "2",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "1",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "3",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿En qué Mundial Maradona anotó el gol de la Mano de Dios?",
+      "respuestas": [
+        {
+          "respuesta": "Italia 90",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "México 86",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "España 82",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Argentina 78",
+          "tipo": "false"
+        }
+      ]
+    },
+    {
+      "pregunta": "¿Primer título Mundial de Italia?",
+      "respuestas": [
+        {
+          "respuesta": "1930",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1942",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1938",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "1934",
+          "tipo": "true"
+        }
+      ]
+    }
+    {
+      "pregunta": "¿Primera selección a la que gana Argentina con Maradona?",
+      "respuestas": [
+        {
+          "respuesta": "México",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Brasil",
+          "tipo": "false"
+        },
+        {
+          "respuesta": "Corea del Suárez",
+          "tipo": "true"
+        },
+        {
+          "respuesta": "Italia",
+          "tipo": "false"
+        }
+      ]
+    }
+  ]
+}
