@@ -73,7 +73,7 @@ $("#indepth_boton_empezar").on("click",function(){
 		
 		$("#indepth_page1").animate({
 			top: 0
-		},2000, function(){
+		},1000, function(){
 			$("#indepth_tiempo_cont").css("position","fixed");
 			intervalo=setInterval(function() {
 			  if(time<=0){
@@ -355,7 +355,7 @@ $("#indepth_twittear").click(function(){
 		
 		var text = encodeURIComponent("Mi predicción es: México "+$("input[name=goleador]").val()+"-"+$("input[name=goleador2]").val())+ " Canadá primer gol al minuto "+$("input[name=goles_anotados]").val()+" @juanfutbol";
 		var url = encodeURIComponent("http://juanfutbol.com/indepth/");
-		window.open("https://twitter.com/share?text="+text+"&hashtags=juanfutbol&url="+url,"","width=500, height=300");
+		window.open("https://twitter.com/share?text="+text+"&hashtags=PizzaFut&url="+url,"","width=500, height=300");
 
 	}else{
 		
